@@ -1,0 +1,13 @@
+**Database Name: movietheatredb**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: password
+
+
+**Theatre Login Details**
+
+Username: ambassador
+Password: ambassador
